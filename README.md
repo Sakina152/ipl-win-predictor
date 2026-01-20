@@ -1,6 +1,6 @@
 # IPL Win Probability Predictor
 
-This project is a Machine Learning application that predicts the winning probability of an IPL cricket match based on the current match situation. It uses a pre-trained model deployed with [Streamlit](https://streamlit.io/).
+This project is a Machine Learning application that predicts the winning probability of an IPL cricket match based on the current match situation. It uses a pre-trained model deployed with [Streamlit](https://ipl-win-predictor-01.streamlit.app/).
 
 ## Features
 - Select Batting and Bowling teams from major IPL franchises.
